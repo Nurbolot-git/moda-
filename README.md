@@ -1,2 +1,2 @@
 # moda-
-<a href="https://nurbolot-git.github.io/moda-/" target="_blank"> LIVE DEMO OF MODAL</a>
+<a href="https://nurbolot-git.github.io/moda-/" target="_parent"> LIVE DEMO OF MODAL</a>
